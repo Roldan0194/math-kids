@@ -1,0 +1,8 @@
+{
+  "name": "Math Kids",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2d0f1255"
+}
